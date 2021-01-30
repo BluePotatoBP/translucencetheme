@@ -5,7 +5,7 @@
     --app-radius: 8px;
     --app-accent: #3d99d7;
     --app-accent-image: none;
-    --app-accent-rgb: 215, 61, 61;
+    --app-accent-rgb: 82, 116, 233;
     --app-accent-text: #000;
     --sidebar-color: rgba(0, 0, 0, 0.4);
     --sidebar-blur: 12px;
@@ -2412,7 +2412,7 @@ input::-webkit-input-placeholder {
 .mouse-mode.full-motion .backgroundFlash-24qWLN[style*="background-color: rgba(114, 137, 218, 0.2)"] .message-2qnXI6.mentioned-xhSam7:hover {
     background-color: var(--messages-color);
     border-color: var(--mention-color);
-    box-shadow: inset 0px 0px 10px 3px var(--mention-color), 0px 0px 13px 4px var(--mention-color);
+    box-shadow: inset 0px 0px 4px 2px var(--mention-color), 0px 0px 5px 3px var(--mention-color);
 }
 
 [class*="theme-"] .message-2qRu38 {
